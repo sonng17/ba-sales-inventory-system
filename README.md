@@ -43,7 +43,7 @@ Assumptions, Constraints
 
 Risks & Dependencies
 
-📌 Các tài liệu sẽ bổ sung sau
+📌 Các tài liệu SRS
 
 Use Case Diagram
 
